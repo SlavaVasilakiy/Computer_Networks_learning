@@ -30,4 +30,7 @@
 ![Homework_4_1.jpg](Homework_4_1.jpg) <br>
 ![Homework_4_2.jpg](Homework_4_2.jpg) <br>
 Например пинг до loopback0 - 172.16.0.1/16 <br>
-![Homework_4_3.jpg](Homework_4_3.jpg)
+![Homework_4_3.jpg](Homework_4_3.jpg) <br>
+
+ARP таблица <br>
+![Homework_4_4.jpg](Homework_4_4.jpg)
