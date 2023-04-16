@@ -11,11 +11,14 @@
 
 # Solution :
 
-1. Настроил сеть [s3_homework.pkt](s3_homework.pkt) <br>
-![Homework_0_img.jpg](Homework_0_img.jpg)
-<br>
-2. Трафик ходит по двум маршрутам. Первый трэйсерт с включеным r5 второй с выключенным r5 <br>
-![Homework_1_img.jpg](Homework_1_img.jpg) <br>
+1. Настроил сеть [s3_homework.pkt](s3_homework.pkt) 
+   <br>
+   ![Homework_0_img.jpg](Homework_0_img.jpg)
+   <br>
+2. Трафик ходит по двум маршрутам. Первый трэйсерт с включеным r5 второй с выключенным r5 
+   <br>
+   ![Homework_1_img.jpg](Homework_1_img.jpg) 
+   <br>
 3. Таблица с r1 с включенным r5 и выключенным r5 <br>
-![Homework_2_img.jpg](Homework_2_img.jpg) <br>
-![Homework_3_img.jpg](Homework_3_img.jpg)
+   ![Homework_2_img.jpg](Homework_2_img.jpg) <br>
+   ![Homework_3_img.jpg](Homework_3_img.jpg)
