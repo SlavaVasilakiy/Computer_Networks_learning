@@ -17,7 +17,7 @@
 
 ### Solution:
 
-1. Открываем файл [The Ultimate PCAP v20221220.pcapng](Lesson_5/The Ultimate PCAP v20221220.pcapng) <br>
+1. Открываем файл [The Ultimate PCAP v20221220.pcapng](..%2FThe%20Ultimate%20PCAP%20v20221220.pcapng) <br>
     Делаем фильтрацию пакетов ```smtp``` и находим нужный пакет <br>
 ![img.png](img.png)
 2. Запускаем терминал, и прописываем ```tracert 8.8.8.8``` с включенным захватом пакетов в Wireshark <br>
