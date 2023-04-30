@@ -12,3 +12,8 @@
 # Lesson 5:
 ### [Classwork_5](Lesson_5%2FClasswork_5%2FClasswork_5.md)
 ### [Homework_5](Lesson_5%2FHomework_5%2FHomework_5.md)
+# Lesson 6:
+### [Homework_6](Lesson_6%2FHomework_6%2FHomework_6.md)
+# Lesson 7:
+### [Classwork_7](Lesson_7%2FClasswork_7%2FClasswork_7.md)
+### [Homework_7](Lesson_7%2FHomework_7%2FHomework_7.md)
