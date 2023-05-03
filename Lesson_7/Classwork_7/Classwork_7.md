@@ -31,6 +31,7 @@
     (standart означает что мы проверяем только source IP, extended и source и destination) <br>
     `ip nat inside source list NET_10 interface gigabitEthernet 0/0/0 overload` <br>
    (выбираем interface потому что у нас один публичный IP в который будем NAT'ить, если было бы несколько, то pull)<br>
+   (выбираем наружний интерфейс) <br>
     заходим с PC0 на веб адрес `http://7.7.7.1` и `https://7.7.7.1`, `sh ip nat translations` <br>
     ![2.jpg](img%2F2.jpg)
 3. Заходим на Router0 -> CLI, `interface gigabitEthernet 0/0/1` -> `ip nat inside` -> `ex`, <br>
