@@ -17,3 +17,5 @@
 # Lesson 7:
 ### [Classwork_7](Lesson_7%2FClasswork_7%2FClasswork_7.md)
 ### [Homework_7](Lesson_7%2FHomework_7%2FHomework_7.md)
+# Lesson 8:
+### [Homework_8](Lesson_8%2FHomework_8%2FHomework_8.md)
